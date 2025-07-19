@@ -1,3 +1,3 @@
 this is first repo
 <br>
-Author__ Marsad
+Author__ Marsad (Developer)
